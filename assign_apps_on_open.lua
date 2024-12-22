@@ -1,4 +1,4 @@
-function process(apps_set)
+local function process(apps_set)
 	local app_name = get_application_name()
 	app_name = string.lower(app_name)
 
