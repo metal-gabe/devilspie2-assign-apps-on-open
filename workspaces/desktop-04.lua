@@ -1,7 +1,12 @@
-local desk_1_apps = {
-	{
-		name = "",
-		position = { 0, 0 },
-		workspace = 1,
-	},
+-- position: x, y, idx
+-- `idx` is the number of the monitor
+
+local desk_04_apps = {
+   {
+      name = "notion calendar",
+      position = { 4608, 0, 2 },
+      workspace = 4,
+   },
 }
+
+return desk_04_apps

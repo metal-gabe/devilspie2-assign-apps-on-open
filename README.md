@@ -44,6 +44,6 @@ If you're using multiple monitors, please read the Devilspie2 documentation on h
 
 ## Environment Notes
 
-This has been used, written for and tested on Ubuntu 20.04 (Focal Fossa).
+This has been used, written for and tested on Ubuntu 24.04.
 
 I imagine other distros shouldn't be a problem as long as they can run the `devilspie2` software.
