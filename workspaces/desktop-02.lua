@@ -6,6 +6,11 @@ local screen_03_center = { 2560, 0, 3 }
 
 local desk_02_apps = {
    {
+      name = "brave",
+      position = screen_03_center,
+      workspace = 2,
+   },
+   {
       name = "unityhub-bin",
       position = screen_03_center,
       workspace = 2,
