@@ -10,6 +10,11 @@ local desk_12_apps = {
       position = screen_02_right,
       workspace = 12,
    },
+   {
+      name = "brave",
+      position = screen_03_center,
+      workspace = 12,
+   },
 }
 
 return desk_12_apps
