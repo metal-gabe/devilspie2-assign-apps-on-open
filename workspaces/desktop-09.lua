@@ -7,17 +7,22 @@ local screen_03_center = { 2560, 0, 3 }
 local desk_09_apps = {
    {
       name = "code",
-      position = { 0, 0, 1 },
+      position = screen_01_left,
       workspace = 9,
    },
    {
       name = "codium",
-      position = { 4608, 0, 2 },
+      position = screen_02_right,
+      workspace = 9,
+   },
+   {
+      name = "rustrover",
+      position = screen_03_center,
       workspace = 9,
    },
    {
       name = "windsurf",
-      position = { 2560, 0, 3 },
+      position = screen_03_center,
       workspace = 9,
    },
 }
