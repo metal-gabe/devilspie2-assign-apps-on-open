@@ -6,6 +6,16 @@ local screen_03_center = { 2560, 0, 3 }
 
 local all_desks_apps = {
    {
+      name = "ghostty",
+      position = screen_02_right,
+      workspace = 0,
+   },
+   {
+      name = "warp-terminal",
+      position = screen_03_center,
+      workspace = 0,
+   },
+   {
       name = "wezterm-gui",
       position = screen_03_center,
       workspace = 0,

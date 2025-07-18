@@ -3,6 +3,7 @@
 -- SETTING THE PACKAGE PATH FOR MODULES TO BE FOUND
 -- ===========================================================
 local config_dir = "/home/nneurall/.config/devilspie2"
+
 package.path = package.path
    .. ";"
    .. config_dir
