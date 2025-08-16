@@ -7,22 +7,27 @@ local screen_03_center = { 2560, 0, 3 }
 local desk_05_apps = {
    {
       name = "msedge",
-      position = { 2560, 0, 3 },
+      position = screen_03_center,
       workspace = 5,
    },
    {
       name = "notion",
-      position = { 2560, 0, 3 },
+      position = screen_03_center,
+      workspace = 5,
+   },
+   {
+      name = "obsidian",
+      position = screen_01_left,
       workspace = 5,
    },
    {
       name = "todoist",
-      position = { 4608, 0, 2 },
+      position = screen_02_right,
       workspace = 5,
    },
    {
       name = "typora",
-      position = { 2560, 0, 3 },
+      position = screen_03_center,
       workspace = 5,
    },
 }
