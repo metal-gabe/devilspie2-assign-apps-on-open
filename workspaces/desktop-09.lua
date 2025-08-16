@@ -16,6 +16,11 @@ local desk_09_apps = {
       workspace = 9,
    },
    {
+      name = "pycharm",
+      position = screen_03_center,
+      workspace = 9,
+   },
+   {
       name = "rustrover",
       position = screen_03_center,
       workspace = 9,
