@@ -6,9 +6,9 @@ local screen_03_center = { 2560, 0, 3 }
 
 local desk_10_apps = {
    {
-      name = "",
-      position = { 0, 864, 1 },
-      workspace = 10,
+      name = "docker desktop",
+      position = screen_03_center,
+      workspace = 12,
    },
 }
 

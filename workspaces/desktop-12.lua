@@ -15,11 +15,6 @@ local desk_12_apps = {
       position = screen_03_center,
       workspace = 12,
    },
-   {
-      name = "docker desktop",
-      position = screen_03_center,
-      workspace = 12,
-   },
 }
 
 return desk_12_apps
