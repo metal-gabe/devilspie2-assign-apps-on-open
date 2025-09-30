@@ -8,7 +8,7 @@ local desk_10_apps = {
    {
       name = "docker desktop",
       position = screen_03_center,
-      workspace = 12,
+      workspace = 10,
    },
 }
 
